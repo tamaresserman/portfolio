@@ -104,3 +104,9 @@ a.topbitch:hover{
 .paddingleft{
 	padding-left:30px;
 }
+#colors{
+	color:#2c3e50;
+}
+.circle{
+	border-radius:5%;
+}
